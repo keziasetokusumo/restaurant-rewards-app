@@ -1,0 +1,20 @@
+{
+  "expo": {
+    "name": "Makan",
+    "slug": "restaurant-rewards-app",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "ios": {
+      "supportsTablet": false
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#FBFAF7"
+      }
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
