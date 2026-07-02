@@ -1,6 +1,6 @@
 # Makan 🍜
 
-> Discover nearby restaurants, earn points every visit, redeem perks — built for Southeast Asia.
+> Discover nearby restaurants, earn points every visit, redeem perks. Built for Jakarta.
 
 **React Native · TypeScript · Expo · iOS + Android**
 
